@@ -1,5 +1,6 @@
 # github-collaboration
 github collaboration practice
 
-# aloy collab
+# aloy collab 
 "hello human"
+pushing orgin now
