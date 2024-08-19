@@ -9,3 +9,7 @@ pushing orgin now
 aloy merging
 I AM CREATING A MERGE CONFLICT
 I SOLVE THE CONFLICT
+
+# Rules
+no commit on main branch
+only work on your branch
